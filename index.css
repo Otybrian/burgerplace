@@ -215,3 +215,8 @@ margin-left: 20px;
 .section7 #three{
     margin-left: 160px;
 }
+footer{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+}
