@@ -195,3 +195,23 @@ margin-left: 20px;
     margin-top: 100px;
     margin-left: 50px;
 }
+.section7 #one {
+    display: flex;
+}
+.section7 #one h1{
+    font-style: italic;
+}
+.section7{
+    display: flex;
+    background-color: rgb(247, 253, 252);
+}
+.section7 #two{
+    margin-left: 130px;
+}
+
+.section7 #two li{
+    list-style: none;
+}
+.section7 #three{
+    margin-left: 160px;
+}
