@@ -43,3 +43,48 @@ span {
 .section2 #image1{
     margin-left: 30%;
 }
+.section3 {
+    display: flex;
+    margin-top: 0%;
+    margin-left: 2px;
+    justify-content: space-between;
+    height: 400px;
+    background-color: rgb(247, 253, 252);
+    height: 500px;
+}
+.section3 h4{
+    color: brown;
+}
+.section3 #quality{
+
+    border: solid brown;
+    border-radius: 15px;
+    text-align: center;
+    padding-top: 50px;
+    width: 250px;
+    border-width: 2px;
+    height: 220px;
+    margin-top: 90px;
+    margin-left: 12px;
+}
+.section3 #fast{
+    border: solid brown;
+    border-radius: 15px;
+    text-align: center;
+    padding-top: 50px;
+    width: 270px;
+    margin-left: 8px;
+    border-width: 2px;
+    height: 270px;
+    margin-top: 70px;
+}
+.section3 #delicious{
+    border: solid brown;
+    border-radius: 15px;
+    text-align: center;
+    padding-top: 50px;
+    width: 250px;
+    margin-right: 12px;
+    border-width: 2px;
+    height: 220px;
+    margin-top: 90px;
