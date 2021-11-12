@@ -144,3 +144,37 @@ span {
 .section4 #line2{
     display: flex;
     margin-top: 25px;
+}
+.section4 #line2 #double4{
+border: solid white;
+box-shadow: #E1EBE6;
+box-shadow: 1px 1px 1px 1px;
+border-radius: 20px;
+padding-top: 15px;
+width: 270px;
+height: 340px;
+text-align: center;
+margin-left: 10px;
+}
+.section4 #line2 #double5{
+border: solid white;
+box-shadow: #E1EBE6;
+box-shadow: 1px 1px 1px 1px;
+border-radius: 20px;
+padding-top: 15px;
+width: 270px;
+height: 340px;
+text-align: center;
+margin-left: 20px;
+}
+.section4 #line2 #double6{
+border: solid white;
+box-shadow: #E1EBE6;
+box-shadow: 1px 1px 1px 1px;
+border-radius: 20px;
+padding-top: 15px;
+width: 270px;
+height: 340px;
+text-align: center;
+margin-left: 20px;
+}
