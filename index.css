@@ -1,9 +1,9 @@
-html {
-    width: 900px;
+html{
+    font-family: "poppins";
 }
 .header {
     background-image: -webkit-linear-gradient(160deg,#F6B400 50%, white 50%);
-    height: 600px;
+    height: 650px;
 }
 .section1 {
     display: flex;
@@ -26,6 +26,7 @@ span {
 #navbar li{
     padding: 0 35px;
     margin-top: 15px;
+    margin-left: 55px;
 }
 .section2 {
     display: flex;
@@ -39,6 +40,7 @@ span {
 #rain {
     height: 400px;
     width: 300px;
+    margin-top: 100px;
 }
 .section2 #image1{
     margin-left: 30%;
@@ -46,48 +48,48 @@ span {
 .section3 {
     display: flex;
     margin-top: 0%;
-    margin-left: 2px;
     justify-content: space-between;
     height: 400px;
     background-color: rgb(247, 253, 252);
-    height: 500px;
+    height: 550px;
 }
 .section3 h4{
-    color: brown;
+    color: rgb(146, 58, 58);
+    font-size: 25px;
 }
 .section3 #quality{
 
     border: solid brown;
-    border-radius: 15px;
-    text-align: center;
-    padding-top: 50px;
-    width: 250px;
-    border-width: 2px;
-    height: 220px;
-    margin-top: 90px;
-    margin-left: 12px;
-}
-.section3 #fast{
-    border: solid brown;
-    border-radius: 15px;
+    border-radius: 10px;
     text-align: center;
     padding-top: 50px;
     width: 270px;
-    margin-left: 8px;
-    border-width: 2px;
-    height: 270px;
-    margin-top: 70px;
+    border-width: 1px;
+    height: 260px;
+    margin-top: 120px;
+    margin-left: 100px;
+}
+.section3 #fast{
+    border: solid brown;
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 50px;
+    width: 290px;
+    margin-left: 2px;
+    border-width: 1px;
+    height: 310px;
+    margin-top: 90px;
 }
 .section3 #delicious{
     border: solid brown;
-    border-radius: 15px;
+    border-radius: 10px;
     text-align: center;
     padding-top: 50px;
-    width: 250px;
-    margin-right: 12px;
-    border-width: 2px;
-    height: 220px;
-    margin-top: 90px;
+    width: 270px;
+    border-width: 1px;
+    height: 260px;
+    margin-top: 120px;
+    margin-right: 40px;
 }
 .section4 #menu{
     margin-top: 30px;
@@ -102,6 +104,8 @@ span {
 .section4 #line1{
     display: flex;
     margin-top: 50px;
+    align-items: center;
+    justify-content: space-around;
 
 }
 .section4 #price{
@@ -127,7 +131,7 @@ span {
     width: 270px;
     height: 340px;
     text-align: center;
-    margin-left: 20px;
+    margin-left: 10px;
 }
 .section4 #line1 #double3{
 
@@ -144,6 +148,7 @@ span {
 .section4 #line2{
     display: flex;
     margin-top: 25px;
+    justify-content: space-around;
 }
 .section4 #line2 #double4{
 border: solid white;
@@ -180,20 +185,24 @@ margin-left: 20px;
 }
 .section5{
     display: flex;
-    height: 500px;
+    height: 650px;
     margin-top: 50px;
     background-color: rgb(247, 253, 252);
+    justify-content: space-around;
 }
 .section5 #some{
     margin-left: 100px;
     margin-top: 100px;
+}
+.section5 #some h2 {
+    font-size: 50px;
 }
 .section5 span{
     color: #F6B400;
 }
 .section5 img{
     margin-top: 100px;
-    margin-left: 50px;
+    margin-left: 80px;
 }
 .section7 #one {
     display: flex;
@@ -204,6 +213,7 @@ margin-left: 20px;
 .section7{
     display: flex;
     background-color: rgb(247, 253, 252);
+    justify-content: space-around;
 }
 .section7 #two{
     margin-left: 130px;
